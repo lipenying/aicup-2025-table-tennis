@@ -1,0 +1,9 @@
+# 比賽資料不可公開
+data/
+*.csv
+*.txt
+!requirements.txt
+
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
